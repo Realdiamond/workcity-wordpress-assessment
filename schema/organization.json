@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.workcityafrica.com/#organization",
+  "name": "Workcity Africa",
+  "url": "https://www.workcityafrica.com",
+  "logo": "http://workcity-assestmentcom.local/wp-content/uploads/2025/11/workcity.jpeg",
+  "description": "Workcity is the leading premium co-working space in Africa, providing professional workspaces and opportunities for founders, remote workers, and growing teams.",
+  "founder": {
+    "@id": "https://www.workcityafrica.com/#person-sam-ojei"
+  },
+  "telephone": "+2347002229222",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Lekki",
+    "addressRegion": "Lagos",
+    "addressCountry": "Nigeria"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/workcityafrica/"
+  ]
+}
