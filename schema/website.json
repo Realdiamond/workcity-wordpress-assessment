@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://www.workcityafrica.com/#website",
+  "url": "https://www.workcityafrica.com",
+  "name": "Workcity Africa",
+  "publisher": {
+    "@id": "https://www.workcityafrica.com/#organization"
+  },
+  "inLanguage": "en",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.workcityafrica.com/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
